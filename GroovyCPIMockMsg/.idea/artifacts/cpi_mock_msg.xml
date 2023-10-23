@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cpi-mock-msg">
+    <output-path>$PROJECT_DIR$/out/artifacts/cpi_mock_msg</output-path>
+    <root id="archive" name="cpi-mock-msg.jar">
+      <element id="module-output" name="GroovyCPIMockMsg" />
+    </root>
+  </artifact>
+</component>
